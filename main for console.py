@@ -248,7 +248,7 @@ def developerContact():
 
         if github_button.draw():
             pygame.mixer.music.pause()
-            webbrowser.open_new("https://github.com/k-a-r-t-h-i-k-r")
+            webbrowser.open_new("https://github.com/k-arthik-r")
 
         if mail_button.draw():
             pygame.mixer.music.pause()
