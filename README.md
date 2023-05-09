@@ -34,5 +34,11 @@ https://user-images.githubusercontent.com/111432615/237027795-6fce68f9-7777-41a1
 - Use of Menu System
 - Game - Pipe gap Decreases as the score of the Player Increases
 ---------------------------
+## Additional Requirements (Not Mandatory)
+**Visual Studio Code**  
+<a href="https://code.visualstudio.com/" alt="VS Code">
+        <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" /></a>
+        
+**Innosetup**
 ## Acknowledgements
 Original Authors, "Flappy Bird" co.
