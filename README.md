@@ -6,7 +6,8 @@ Python 3.11.1 (Recommended)
 
 <a href="https://www.python.org/downloads/" alt="3.11.1">
         <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /></a>
-        
+  
+  
 <h4>Modules Imported</h4>
 
 - pygame
@@ -42,6 +43,12 @@ https://user-images.githubusercontent.com/111432615/237027795-6fce68f9-7777-41a1
 **Innosetup**      
 <a href="https://jrsoftware.org/isinfo.php" alt="Innosetup">
         <img src="https://img.shields.io/badge/InnoSetup-000080?style=for-the-badge" /></a>
-        
+----------------------------
+## License
+[![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
+----------------------------
 ## Acknowledgements
 Original Authors, "Flappy Bird" co.
+----------------------------
+## Feedback
+If you have any feedback, please reach out to us at voidex.developer@gmail.com
