@@ -19,6 +19,7 @@ Python 3.11.1 (Recommended)
 - os
 --------------------------
 ## How to Run?
+
 After Impoting all the mentioned modules, Run
 ```bash
   python main.py
@@ -30,6 +31,7 @@ https://user-images.githubusercontent.com/111432615/237027795-6fce68f9-7777-41a1
 
 ---------------------------
 ## Features
+
 - Usage of Buttons in Pygame
 - User Friendly Interface
 - Use of Menu System
@@ -45,10 +47,9 @@ https://user-images.githubusercontent.com/111432615/237027795-6fce68f9-7777-41a1
         <img src="https://img.shields.io/badge/InnoSetup-000080?style=for-the-badge" /></a>
 ----------------------------
 ## License
+
 [![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
 ----------------------------
-## Acknowledgements
-Original Authors, "Flappy Bird" co.
-----------------------------
 ## Feedback
+
 If you have any feedback, please reach out to us at voidex.developer@gmail.com
