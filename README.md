@@ -36,12 +36,16 @@ After Impoting all the mentioned modules, Run<br>
 ## Additional Installations (Not Mandatory)
 
 **Visual Studio Code**  
+
 <a href="https://code.visualstudio.com/" alt="VS Code">
-        <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" /></a>
-        
+        <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" /></a><br>
+<br> 
+
 **Innosetup**      
+
 <a href="https://jrsoftware.org/isinfo.php" alt="Innosetup">
         <img src="https://img.shields.io/badge/InnoSetup-000080?style=for-the-badge" /></a>
+        
 ----------------------------
 ## License
 
