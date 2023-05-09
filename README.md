@@ -64,7 +64,7 @@ Redex K-19 Setup Wizard was Codded and Compiled using jr software's 'InnoSetup' 
 Check on the Setup file - [setup](Setup.iss) <br>
 To Install Redex K-19 EXE File Run the setup file as shown below:
 
-![Doc1](https://user-images.githubusercontent.com/111432615/237058795-db55cf33-2f6b-47bb-91e5-3f49af4403c1.png)
+![Doc1](https://github.com/k-arthik-r/Redex_K-19/assets/111432615/cb3f7a23-bf8a-4a86-b09e-528b90633618)
 
 ---------------------------
 ## Feedback
