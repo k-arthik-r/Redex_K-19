@@ -6,6 +6,7 @@ Python 3.11.1 (Recommended)
 
 <a href="https://www.python.org/downloads/" alt="3.11.1">
         <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /></a>
+        
 <h4>Modules Imported</h4>
 
 - pygame
@@ -15,21 +16,23 @@ Python 3.11.1 (Recommended)
 - webbrowser
 - time
 - os
-
+--------------------------
 ## How to Run?
 After Impoting all the mentioned modules, Run
 ```bash
   python main.py
 ```
+-------------------------
+## Demo
 
+https://user-images.githubusercontent.com/111432615/237027795-6fce68f9-7777-41a1-92ef-57883594c5b0.mp4
+
+---------------------------
 ## Features
-
 - Usage of Buttons in Pygame
 - User Friendly Interface
 - Use of Menu System
 - Game - Pipe gap Decreases as the score of the Player Increases
-
-
+---------------------------
 ## Acknowledgements
-
 Original Authors, "Flappy Bird" co.
