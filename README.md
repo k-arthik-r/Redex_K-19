@@ -40,5 +40,8 @@ https://user-images.githubusercontent.com/111432615/237027795-6fce68f9-7777-41a1
         <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" /></a>
         
 **Innosetup**
+<a href="https://jrsoftware.org/isinfo.php" alt="Innosetup">
+        <img src="https://img.shields.io/badge/InnoSetup-000080?style=for-the-badge" /></a>
+        
 ## Acknowledgements
 Original Authors, "Flappy Bird" co.
