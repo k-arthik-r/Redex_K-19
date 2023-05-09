@@ -54,7 +54,7 @@ After Impoting all the mentioned modules, Run<br>
 https://user-images.githubusercontent.com/111432615/237027795-6fce68f9-7777-41a1-92ef-57883594c5b0.mp4
 
 ------------------------------
-##Setup
+## Setup
 
 Redex K-19 Setup Wizard was Codded and Compiled using jr software's 'InnoSetup' Platform.<br>
 Check on the Setup file - [setup](Setup.iss) <br>
