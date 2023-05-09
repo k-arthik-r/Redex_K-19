@@ -16,3 +16,20 @@ Python 3.11.1 (Recommended)
 - time
 - os
 
+## How to Run?
+After Impoting all the mentioned modules, Run
+```bash
+  python main.py
+```
+
+## Features
+
+- Usage of Buttons in Pygame
+- User Friendly Interface
+- Use of Menu System
+- Game - Pipe gap Decreases as the score of the Player Increases
+
+
+## Acknowledgements
+
+Original Authors, "Flappy Bird" co.
