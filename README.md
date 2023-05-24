@@ -1,6 +1,4 @@
-<div>
-      <h1 align='center'>Redex K-19</h1>
-</div>
+# Redex K-19
 
 
 <div align='center'>
