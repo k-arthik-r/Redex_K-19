@@ -1,6 +1,8 @@
-# Redex_K-19
---------------------------
+<div>
+      <h1 align='center'>Redex K-19</h1>
+</div>
 
+--------------------------
 <div align='center'>
        <a><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /></a>
         <a><img src="https://img.shields.io/badge/Pygame-00A300?style=for-the-badge&logo=python&logoColor=ffdd54" /></a>
