@@ -30,7 +30,7 @@ Python 3.11.1 (Recommended)
 --------------------------
 ## How to Run?
 
-After Impoting all the mentioned modules, Run<br>
+After Importing all the mentioned modules, Run<br>
 [main](main.py)
 ```bash
   python main.py
